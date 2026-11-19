@@ -1,6 +1,6 @@
 body {
    font-family: Arial, sans-serif;   
-   background-color: lightblue;   
-   text-align: center;
+   background-color: rgb(230, 196, 173);   
+   text-align: left;
 }
-h1 { color: darkblue; }
+h1 { color: rgb(104, 139, 0); }
